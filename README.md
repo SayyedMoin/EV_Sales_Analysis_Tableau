@@ -48,8 +48,7 @@ This project focuses on analyzing Electric Vehicle (EV) sales data and visualizi
 - **`README.md`**: Project documentation.
 
 ## Tableau Public Link
-[View the Interactive Dashboard on Tableau Public]([#](https://public.tableau.com/views/EVDataAnalysis_17296021210330/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
-*(Replace `#` with your Tableau Public project link)*
+[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/EVDataAnalysis_17296021210330/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## How to Use
 1. Download the `ElectricVehicleDashboard.twbx` file.
