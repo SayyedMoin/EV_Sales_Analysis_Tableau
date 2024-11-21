@@ -58,8 +58,8 @@ This project focuses on analyzing Electric Vehicle (EV) sales data and visualizi
 
 ## Contact
 If you have any questions or feedback, feel free to reach out:  
-[Moin Sayyed]  
-[sayyedmoin4902@gmail.com]  
+Moin Sayyed  
+sayyedmoin4902@gmail.com  
 
 ---
 
